@@ -1,0 +1,18 @@
+{
+  "name": "gpujs-sdf-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "Szymon Kaliski <hi@szymonkaliski.com> (http://szymonkaliski.com)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "gpu.js": "^2.0.0-rc.13",
+    "implicit-mesh": "^1.1.1",
+    "serialize-wavefront-obj": "^1.0.0"
+  }
+}
